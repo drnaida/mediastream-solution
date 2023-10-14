@@ -1,1 +1,2 @@
-# mediastream-solution
+# mediastream-challenge-react
+React Challenge
